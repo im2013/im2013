@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: WebProgF28WP
+source: WebProgF28WP/main
 incremental: false
 highlighter: rouge
 gist:
